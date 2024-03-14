@@ -1,4 +1,4 @@
-const acessKey = "whLXklP08p0vv9ZP0wdSgU5-HtjCIGC3B1GF_B-x4cI";
+const acessKey = "API  from Upsplash Goes Here";
 
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
